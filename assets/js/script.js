@@ -1,6 +1,6 @@
 var apiKey = "&appid=797e5dfb12b23de3a71f034e7574feae";
 var apiCall = "https://api.openweathermap.org/data/2.5/onecall?";
-var geoCall = "http://api.openweathermap.org/geo/1.0/direct?q=";
+var geoCall = "https://api.openweathermap.org/geo/1.0/direct?q=";
 var apiExclude = "&exclude=minutely,hourly,alerts";
 var searchField = $("#search-field");
 var searchBtn = $("#search-button");
